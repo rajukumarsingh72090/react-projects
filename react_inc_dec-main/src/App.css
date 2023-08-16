@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+.header{
+  background-color: rebeccapurple;
+}
+h1{
+  margin: 0;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  padding: 14px;
+}
+.buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn{
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+.heading{
+  font-size: 80px;
+  margin: 10px;
+}
